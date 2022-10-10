@@ -1,5 +1,8 @@
-This is Elephant md
-=====
+#This is Elephant md
+
+*italic*
+
+**bold**
 
 .. _installation:
 
