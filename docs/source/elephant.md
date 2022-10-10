@@ -1,4 +1,4 @@
-This is Elephant rst
+This is Elephant md
 =====
 
 .. _installation:
