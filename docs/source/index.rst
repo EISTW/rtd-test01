@@ -19,6 +19,7 @@ Contents
 .. toctree::
 
    usage
+   imagetest
    elephant
    api
    
