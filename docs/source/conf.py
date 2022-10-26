@@ -3,8 +3,9 @@
 # -- Project information
 
 project = 'OpenL'
-release = '0.1'
-version = '0.1.0'
+release = '5.26'
+author = 'OpenL team'
+version = 'doc version 1'
 
 # -- General configuration
 
