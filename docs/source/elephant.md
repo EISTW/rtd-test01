@@ -96,6 +96,9 @@ The following table covers system requirements for installing and running OpenL 
 
 .. note::
 	It is highly recommended to avoid using spaces and special characters in paths.
+	
+.. note::
+  It is highly recommended to avoid using spaces and special characters in paths.
 
 ### Common Information about OpenL Tablets WebStudio Instances
 
