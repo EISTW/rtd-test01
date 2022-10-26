@@ -18,6 +18,7 @@ Contents
 
 .. toctree::
 
+   usage
    elephant
    api
    
