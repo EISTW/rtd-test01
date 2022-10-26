@@ -3,7 +3,7 @@ Welcome to Lumache's documentation!
 
 .. note::
 
-     This is the note
+     This is a note in a RST file. How to do this in a markdown file.
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
