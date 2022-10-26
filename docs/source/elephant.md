@@ -94,7 +94,7 @@ The following table covers system requirements for installing and running OpenL 
 
 **User rights requirements:** Administrative permissions are required to install the software under Microsoft Windows or UNIX system.
 
-!!! note
+.. note::
 	It is highly recommended to avoid using spaces and special characters in paths.
 
 ### Common Information about OpenL Tablets WebStudio Instances
