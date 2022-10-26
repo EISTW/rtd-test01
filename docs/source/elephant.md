@@ -11,11 +11,11 @@ Creative Commons Attribution 3.0 United States License.
 
 ## Preface
 
-::::{important}
-:::{note}
-This text is **standard** _Markdown_
-:::
-::::
+```{admonition} Here's my title
+:class: tip
+
+Here's my admonition content.{sup}`1`
+```
 
 **OpenL Tablets** is a Business Rules Management System (BRMS) based on tables presented in Microsoft Excel documents. Using unique concepts, OpenL Tablets facilitates treating business documents containing business logic specifications as an executable source code.
 
