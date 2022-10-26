@@ -11,10 +11,7 @@ sphinx:
 
 formats:
 - pdf
-
-markdown_extensions:
-  - markdown.extensions.admonition
-  
+ 
 # Optionally declare the Python requirements required to build your docs
 python:
    install:
