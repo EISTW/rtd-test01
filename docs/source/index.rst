@@ -3,5 +3,5 @@ User Guides
 
 .. toctree::
 
-   latestguides
-   previousguides
+   latest_guides
+   previous_guides
