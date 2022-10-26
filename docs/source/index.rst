@@ -23,6 +23,7 @@ Contents
 .. toctree::
 
    usage
+   adrian
    elephant
    api
    
