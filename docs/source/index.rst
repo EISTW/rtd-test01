@@ -3,5 +3,6 @@ User Guides
 
 .. toctree::
 
-   latest_guides
+   installation_guide
+   reference_guide
   
